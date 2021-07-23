@@ -1,2 +1,26 @@
 # BANK-MANAGEMENT-SYSTEM
-Banking management system in C++ to brushing up the OOP's programming skills and file handling concepts. 
+
+About Project Bank Management System is based on a concept of recording customer’s account details. 
+
+# Features:
+- Create an account
+- Balance Enquiry
+- Deposit amount
+- Withdraw amount
+- Close an account
+- View all account holders detail
+
+# Prerequsite for OOP's concepts 
+- Abstraction.
+- Polymorphism
+- Encapsulation
+- class concepts like constructors, destructors and membership label.
+- static member variable and function 
+- friend function and operatior overloading by friend fucntion 
+- File handling
+> - This project uses classes and file handling features of C++. In order to store all the user’s data, an external file (DAT file) is created by the system, so every time we get into the system we can operate with the existing accounts. Bank Management System is developed using C++ Programming Language and different variables, strings have been used for the development of it. Bank Management System in C++ Programming with source code is free to download. Use for educational purposes only!.
+
+In order to run the project, you must have installed Dev C++ or Code Blocks on your PC.
+
+
+IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE BANK MANAGEMENT SYSTEM FEEL FREE TO CONTRIBUTE.
