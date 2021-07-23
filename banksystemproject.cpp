@@ -10,13 +10,6 @@ class Account{
 		static long NextAccountNumber;
 	public:
 		Account(){};
-		/*Account(Account &acc)
-		{
-		    this->accountNumber=acc.accountNumber;
-		    this->firstName=acc.firstName;
-		    this->lastName=acc.lastName;
-		    this->balance=acc.balance;
-		}*/
 		Account(string fName,string lName,float balance);
 		long getAccNo();
 		string getFirstName(){return firstName;	};
