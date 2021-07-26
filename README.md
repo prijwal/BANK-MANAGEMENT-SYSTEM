@@ -11,12 +11,12 @@ About Project Bank Management System is based on a concept of recording customer
 - View all account holders detail
 
 # Prerequisite for OOP's concepts 
-- Abstraction.
+- Abstraction
 - Polymorphism
 - Encapsulation
-- Class concepts like constructors, destructors and membership label.
+- Class concepts like constructors, destructors and membership label
 - Static member variable and function 
-- Friend function and operatior overloading by friend function 
+- Friend function and operator overloading by friend function 
 - File handling
 > - This project uses classes and file handling features of C++. In order to store all the user’s data, an external file (DAT file) is created by the system, so every time we get into the system we can operate with the existing accounts.
 
